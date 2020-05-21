@@ -5,7 +5,7 @@ These are a collection of Jupyter Notebooks that reproduce the cluster maps for 
 Presteps:  
 
 1. Clone the repository from Github
-`git clone xxx`
+`git clone https://github.com/kpegion/wxregimes.git`
 
 2. Setup your Python environment using the provided environment.yml file.  
 This will make sure that you have all the necessary packages installed.
