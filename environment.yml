@@ -1,27 +1,20 @@
 name: wxregimes
 channels:
-  - defaults
+  - conda-forge        
 dependencies:
-  - cfgrib
-  - cartopy
-  - jupyterlab=1.2.5
-  - matplotlib
-  - metpy
   - python=3.6
-  - dask
-  - jupyter_client=5.3.1
-  - pip
-  - netcdf4=1.5.1.1
+  - jupyterlab
+  - jupyter_client
   - nbserverproxy
-  - tqdm
-  - scipy
-  - ipywidgets
-  - xskillscore[version='>=0.0.12']
+  - netcdf4
   - numpy
-  - xarray[version='>=0.14.1']
-  - seaborn
-  - esmpy
-  - xesmf
+  - cfgrib
+  - scipy
+  - xarray
+  - dask
+  - cartopy
+  - matplotlib
+  - cartopy
+  - ipywidgets
   - eofs
-  - climpred
-prefix: /homes/kpegion/.conda/envs/aoes
+
